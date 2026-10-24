@@ -1,0 +1,4 @@
+interface:
+  display_name: "Show Quote in Context"
+  short_description: "Link quotations to verified source passages. In situ."
+  default_prompt: "Use $show-quote-in-context to verify this quotation at its source and link to the exact passage."
